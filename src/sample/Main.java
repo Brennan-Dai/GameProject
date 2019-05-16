@@ -8,7 +8,7 @@ import javafx.stage.Stage;
 
 public class Main extends Application {
     // yo buds
-    @Override
+    @Override // test123
     public void start(Stage primaryStage) throws Exception{
         Parent root = FXMLLoader.load(getClass().getResource("sample.fxml"));
         primaryStage.setTitle("Hello World");
