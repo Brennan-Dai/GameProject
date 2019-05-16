@@ -5,7 +5,7 @@ import javafx.stage.Stage;
 
 public class Main extends Application {
     // yo buds
-    @Override // test123456
+    @Override
     public void start(Stage primaryStage){
     }
 
